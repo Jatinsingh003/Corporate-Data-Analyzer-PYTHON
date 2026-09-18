@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+myenv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Temporary files
+tempCodeRunnerFile.py
+*.tmp
+*.temp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / packaging artifacts
+build/
+dist/
+*.spec
+
+# Python packaging metadata
+*.egg-info/
+
+# Local environment files
+.env
+.env.*
+
+# Test / coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
